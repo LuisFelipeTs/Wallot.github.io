@@ -976,7 +976,6 @@ button:focus {
 #team .single-team {
   border: 1px solid #ddd;
   position: relative;
-  display: inline-block;
   -moz-transition: all .8s ease;
   -webkit-transition: all .8s ease;
   transition: all .8s ease; }
